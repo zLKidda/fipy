@@ -8,9 +8,7 @@ python local and remote file inclusion scanner for testing web servers
 sudo pip install termcolor requests BeautifulSoup lxml
 Linux
 
-# Demo 
----------------------------------------------
-https://www.youtube.com/watch?v=zci-Q76NivU subscribe :)
+------------------------------------------
 
 # Running
 ---------------------------------------------
